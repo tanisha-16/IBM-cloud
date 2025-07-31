@@ -41,7 +41,6 @@ This project aims to **detect and classify power system faults** using machine l
 ## 📊 Results
 
 - Total Pipelines Generated: 8
-- Best Accuracy: 40.9%
 - Insights: Further improvement possible via binary classification or enhanced feature selection.
 
 ## 🔮 Future Scope
