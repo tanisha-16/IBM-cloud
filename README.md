@@ -50,5 +50,4 @@ This project aims to **detect and classify power system faults** using machine l
 - Explore deep learning models (e.g., LSTM, CNN)
 - Integrate edge computing for on-site fault detection
 
-## 📌 Project Structure
 
