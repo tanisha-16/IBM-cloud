@@ -22,7 +22,7 @@ This project aims to **detect and classify power system faults** using machine l
   - Feature Engineering
 - **Best Pipeline**:
   - Random Forest Classifier (Pipeline 8)
-  - Accuracy: 40.9% via cross-validation
+
 
 ## 🛠️ Tools & Technologies
 
